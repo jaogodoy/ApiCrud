@@ -1,4 +1,6 @@
-Esta é uma API desenvolvida em Node.js para gerenciamento de vendas, produtos, clientes e categorias. O projeto segue o padrão RESTful, permitindo operações de criação, leitura, atualização e exclusão (CRUD) para cada entidade principal do sistema.
+Esta é uma API desenvolvida em Node.js para gerenciamento de vendas, produtos, clientes e categorias.
+
+
 
 Funcionalidades principais
 Autenticação: Endpoints para login e proteção das rotas.
